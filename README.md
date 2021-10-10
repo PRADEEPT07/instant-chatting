@@ -1,2 +1,2 @@
 # instant-chatting
- chat appln using react Js socket.io
+ chat appln using React JS socket.io
